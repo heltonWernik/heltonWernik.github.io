@@ -1,0 +1,57 @@
+title: wernik_cyber_blog
+description: My Personal Cyber Studies
+author: Israel Helton Wernik
+github: https://github.com/heltonWernik
+about: I'm Cyber Analyst and Python Programmer.
+disqus_shortname: heltonWernikBlog
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/israel.wernik"
+    - icon: fa-twitter
+      link: "https://twitter.com/IsraelWernik"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/heltonwernik/"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    - icon: fa-github
+      link: "https://github.com/heltonWernik"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    # - text: My Projects
+    #   url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "heltonWernik.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
