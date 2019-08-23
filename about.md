@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 ![Me and my Friend](static/img/perfil.jpg)
+Me, on the left 
 
-Especialista em Ciberseguranca, formado pelo Technion em Israel. Atualmente trabalho como pesquisador na Check Point Software Tecnologies em Tel Aviv.
 
-**Gosto de quebrar sistemas e escrever sistemas que quebram sistemas, claro, somente com permissao :)**
+Cyber Security Specialist, from Technion in Israel. I currently work as a researcher at Check Point Software Technologies in Tel Aviv.
+
+**I like to break systems and write systems that break systems**
+(of course, only with permission)
 
 email: heltonwernik@gmail.com
