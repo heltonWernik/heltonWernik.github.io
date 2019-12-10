@@ -123,12 +123,12 @@ All of these types can be very very useful because you'll be able to pick which 
 
 Reminder: Less Features is more Anonymous
 
-| Service                           | Example        | Communication                       | Javascript | Logging & Tracking | Hidden Service | Encryption             |
-|-----------------------------------|----------------|-------------------------------------|------------|--------------------|----------------|------------------------|
-| Common Services                   | Gmail          | Clearnet & Darknet                  | Yes        | High               | No             | HTTPS/TLS              |
-| Temp Emails                       | GuerrillaMail  | Clearnet & Darknet                  | Yes        | Medium             | Limited        | HTTPS/TLS              |
-| Privacy-focused (hybrid) Services | ProtonMail     | Clearnet & Darknet                  | Yes        | none               | Limited        | HTTPS/TLS & End-to-end |
-| Darknet Services                  | Elude / Torbox | Clearnet & Darknet,/  Darknet Only! | No         | none               | Yes            | end-to-end             |
+| Service                              	| Example           	| Communication                          	| Javascript 	| Logging &<br>Tracking 	| Hidden<br>Service 	| Encryption                	|
+|--------------------------------------	|-------------------	|----------------------------------------	|------------	|-----------------------	|-------------------	|---------------------------	|
+| Common Services                      	| Gmail             	| Clearnet & Darknet                     	| Yes        	| High                  	| No                	| HTTPS/TLS                 	|
+| Temp Emails                          	| GuerrillaMail     	| Clearnet & Darknet                     	| Yes        	| Medium                	| Limited           	| HTTPS/TLS                 	|
+| Privacy-focused<br>(hybrid) Services 	| ProtonMail        	| Clearnet & Darknet                     	| Yes        	| none                  	| Limited           	| HTTPS/TLS<br>& End-to-end 	|
+| Darknet<br>Services                  	| Elude /<br>Torbox 	| Clearnet & Darknet,/ <br>Darknet Only! 	| No         	| none                  	| Yes               	| end-to-end                	|
 
 # Instant Messaging
 OK so now that we know how to use e-mails to communicate on the darknet privately and anonymously the other method of communication that you might want to use is instant messaging.
