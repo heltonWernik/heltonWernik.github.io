@@ -8,6 +8,7 @@ tags:
 ---
 
 # Using Email
+
 ## Fake identity
 First, to send email anonymously you will need a fake identity, there are a lot of websites that create a fake identity 
 You should always use this information whenever you signing for any service on the darknet and clear-net and this will be your identity. 
@@ -168,7 +169,7 @@ XMPP is decentralized so anyone can run their own server and you can even use yo
 
 [Here](https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac) you can see a list of public XMPP servers.
 
-<script src="https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac.js"></script>
+<!-- <script src="https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac.js"></script> -->
 {% gist dllud/a46d4a555e31dfeff6ad41dcf20729ac %}
 
 Lest use, for example, the dismail.de services, go there, register an account with your fake identity, and after that, you can use this service with TAILS to communicate privately.
@@ -249,8 +250,10 @@ There you have many options, like a
 * shared secret 
 * manual fingerprint verification
 ​
+
 # File Management & File Sharing
 ​
+
 ## Firefox Send file services.
 If you share a file, you first need to clean the metadata, on TAILS is very easy, just a right button click and select clean metadata.
 ​
